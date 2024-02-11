@@ -6,6 +6,7 @@
 |YouTube video |Downloads video from YouTube| 
 |YouTube audio| Downloads audio from YouTube|
 |YouTube search| Searches the given title from YouTube| 
+|support |$support group "https://chat.whatsapp.com/HbQRhkPZfcnFQ0wA8bKVaT"
 
 |General| usage |
 |----|--------|
