@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/20c8b2be57cca5ab47230.jpg" alt="nz" width="350"/>
+<img src="[https://telegra.ph/file/15ef3f84cb78004abc171.jpg" alt="nz" width="350"/>
 </p>
 
 ## ***♥️Hitman47♥️***
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER? 👇👇👇
 
 - 🌱 I’m currently learning **TS Language,B##**
 
-   🧧**I'm mot a developer**🧧
+   🤪**I'm mot a developer**🤪
 
 **- 📫 easy to deploy this bot just tag deploy to Heroku that's all** 
 
